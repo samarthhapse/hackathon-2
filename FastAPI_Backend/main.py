@@ -4,7 +4,7 @@ from typing import List,Optional
 import pandas as pd
 from model import recommend,output_recommended_recipes
 
-dataset=pd.read_csv('../Data/dataset.csv',compression='gzip')
+dataset=pd.read_csv('../Data/dataset.csv')
 
 app = FastAPI()
 
