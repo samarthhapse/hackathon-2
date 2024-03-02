@@ -1,6 +1,5 @@
-# Team-id : HM0034 
 # Team Name : 404 NOT FOUND
-# Problem Statement : Develop a solution that helps individuals track their daily nutritional intake and provides personalized recommendations for a healthier lifestyle.
+# Project Abstract : Solution that helps individuals track their daily nutritional intake and provides personalized recommendations for a healthier lifestyle.
 
 
 
