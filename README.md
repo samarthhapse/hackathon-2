@@ -1,4 +1,3 @@
-# Team Name : 404 NOT FOUND
 # Project Abstract : Solution that helps individuals track their daily nutritional intake and provides personalized recommendations for a healthier lifestyle.
 
 
